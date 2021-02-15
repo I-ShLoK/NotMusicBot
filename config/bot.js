@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'ODEwOTE3NjM1MjUxNTAzMTI1.YCqn5g.kgtsBo_odGNpvlNENDONDoXIoZs',
         prefix: 'N!',
-        activity: 'Prefix N!',
+        activity: 'Prefix N! Play ___',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
